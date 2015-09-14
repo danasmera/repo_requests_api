@@ -1,4 +1,7 @@
 *.pyc
 *.swp
 *.[oa]
+!lib.a
 *~
+/TODO
+doc/**/*.docx
